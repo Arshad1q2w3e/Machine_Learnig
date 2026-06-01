@@ -1,3 +1,6 @@
+gunicorn
+fastapi
+uvicorn
 gradio
 joblib
 numpy
